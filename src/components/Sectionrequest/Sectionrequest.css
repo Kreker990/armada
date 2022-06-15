@@ -1,0 +1,46 @@
+.sectionrequest{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #343434;
+    flex-direction: column;
+}
+.sectionrequest p{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #585858;
+}
+.sectionrequest_submit{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    /* background-color: aqua; */
+}
+.sectionrequest_submit input{
+    border: none;
+    width: 309px;
+    height: 47px;
+    background: #E5E3E3;
+    border-radius: 3px;
+}
+.sectionrequest_submit button{
+    width: 226px;
+    height: 47px;
+    border: none;
+    background-color: #65256F;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}

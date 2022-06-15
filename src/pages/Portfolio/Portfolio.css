@@ -1,0 +1,99 @@
+.portfolio_top_left{
+    background: url(../../assets/images/portgirl_big.png);
+    width: 568px;
+    height: 564px;
+}
+.portfolio_top_right_top_left{
+    background: url(../../assets/images/portmen_min.png);
+    width: 268px;
+    height: 274px;
+}
+.portfolio_top_right_top_right{
+    background: url(../../assets/images/portnature.png);
+    width: 268px;
+    height: 274px;
+}
+.portfolio_top_right_buttom{
+    background: url(../../assets/images/portgitl_min.png);
+    width: 568px;
+    height: 274px;
+}
+.portfolio_top_right_top{
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio_top_right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.portfolio_top{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio_buttom_right{
+    background: url(../../assets/images/portorange_big.png);
+    width: 568px;
+    height: 564px;
+}
+.portfolio_buttom_left_top{
+    background: url(../../assets/images/portmen_big.png);
+    width: 568px;
+    height: 274px;
+}
+.portfolio_buttom_left_buttom_left{
+    background: url(../../assets/images/portnature.png);
+    width: 268px;
+    height: 274px;
+}
+.portfolio_buttom_left_buttom_right{
+    background: url(../../assets/images/portorange.png);
+    width: 268px;
+    height: 274px;
+}
+.portfolio_buttom_left_buttom{
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio_buttom_left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.portfolio_buttom{
+    margin: 15px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio{
+    margin: 60px auto;
+    width: 86%;
+}
+.rotfolio_had{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #000000;
+}
+.portfolio_job{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+.portfolio_job p{
+    margin-bottom: 15px;
+}

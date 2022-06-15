@@ -1,0 +1,54 @@
+.sectionstoris{
+    background: linear-gradient( rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.651) ),url(../../assets/images/storisbg.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 445px;
+}
+.sectionstoris_conteiner{
+    width: 82%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sectionstoris_conteiner_card_top{
+    background: url(../../assets/images/storisring.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 97px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.sectionstoris_conteiner_card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sectionstoris_conteiner button{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    border: none;
+}
+.sectionstoris_h2{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}

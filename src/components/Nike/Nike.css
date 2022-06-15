@@ -1,0 +1,12 @@
+.nike{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+}
+.nike_body{
+    display: flex;
+    justify-content: space-between;
+    width: 82%;
+}

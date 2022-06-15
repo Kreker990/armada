@@ -1,0 +1,42 @@
+.sectionjob_had{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #000000;
+}
+.jobbody_conteiner button{
+    width: 368px;
+    height: 52px;
+    border: none;
+    background-color: #65256F;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.jobsection_body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+}
+.jobbody_conteiner{
+    width: 81%;
+    display: flex;
+    height: 90%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.jobbody_conteiner img{
+    width: 1100px;
+}

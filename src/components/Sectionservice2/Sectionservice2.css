@@ -1,0 +1,106 @@
+.sectionservice2_had{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #000000;
+}
+.secservice2_conteiner_top_left_top{
+    background-image: url('../../assets/images/men_litle.png');
+    width: 368px;
+    height: 342px;
+}
+.secservice2_conteiner_top_left_buttom{
+    background-image: url('../../assets/images/men_litle.png');
+    width: 368px;
+    height: 342px;
+}
+.secservice2_conteiner_top_middle_top{
+    background-image: url('../../assets/images/nature.png');
+    width: 368px;
+    height: 342px;
+}
+.secservice2_conteiner_top_middle_buttom{
+    background-image: url('../../assets/images/nature.png');
+    width: 368px;
+    height: 342px;
+}
+.secservice2_conteiner_top_right{
+    background-image: url('../../assets/images/cow.png');
+    width: 368px;
+    height: 700px;
+    display: flex;
+    justify-content: flex-end !important;
+}
+.secservice2_conteiner_buttom_left{
+    background-image: url('../../assets/images/men_big.png');
+    width: 751px;
+    height: 342px;
+}
+.secservice2_conteiner_buttom_right{
+    background-image: url('../../assets/images/nature.png');
+    width: 368px;
+    height: 342px;
+}
+.secservice2_conteiner_buttom{
+    display: flex;
+}
+.secservice2_conteiner_top{
+    display: flex;
+}
+.secservice2{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    display: flex;
+    height: 1200px;
+    justify-content: center;
+    align-items: center;
+}
+.secservice2_conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 84%;
+    height: 88%;
+    /* background-color: blue; */
+}
+.secservice2_conteiner_buttom{
+    display: flex;
+    justify-content: space-between;
+}
+.secservice2_conteiner_top{
+    display: flex;
+    justify-content: space-between;
+}
+.secservice2_conteiner_top div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.secservice2_conteiner_buttom div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.secservice2_conteiner_top_right{
+    
+}
+.secservice2_conteiner_top_left div{
+    display: flex;
+    justify-content: flex-end;
+}
+.secservice2_conteiner_top_middle div{
+    display: flex;
+    justify-content: flex-end;
+}

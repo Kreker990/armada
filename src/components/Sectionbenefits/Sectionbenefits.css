@@ -1,0 +1,29 @@
+.sectionbenefits_had{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #000000;
+}
+.sectionbenefits_had img{
+    width: 36%;
+}
+.sectionbenefits{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sectionbenefits_conteiner{
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    width: 82%;
+}
